@@ -1,0 +1,7 @@
+{
+    "files.exclude": {
+        ".*": true
+    },
+    "pymakr.advancedMode": true,
+    "workbench.startupEditor": "readme"
+}

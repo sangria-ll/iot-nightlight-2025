@@ -1,0 +1,36 @@
+# macOS system files
+.DS_Store
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+target/
+ipython_config.py
+# Minimal .gitignore for MicroPython/ESP32 classroom project
+__pycache__/
+*.pyc
+*.py[cod]
+.env
+.envrc
+.venv/
+venv/
+ENV/
+.ipynb_checkpoints/
+
+# VS Code settings (keep settings.json and extensions.json for sharing)
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+
+# Device-specific or temporary files
+boot_out.txt
